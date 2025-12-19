@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "D/N/A",
+  "base_artist": "Azari",
+  "createdAt": "2025-12-19T09:46:54.706608Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Workin' Man's Ph.D",
+      "artist": "Aaron Tippin",
+      "has_synced": true,
+      "path": "select/01_Workin'_Man's_Ph.D_Aaron_Tippin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "D-Day",
+      "artist": "King Gizzard & The Lizard Wizard feat. Mild High Club",
+      "has_synced": true,
+      "path": "select/02_D-Day_King_Gizzard_&_The_Lizard_Wizard_feat._Mild_High_Club.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "D-Day",
+      "artist": "King Gizzard and the Lizard Wizard with Mild High Club",
+      "has_synced": true,
+      "path": "select/03_D-Day_King_Gizzard_and_the_Lizard_Wizard_with_Mild_High_Club.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "D-I-V-O-R-C-E",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/04_D-I-V-O-R-C-E_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "D-I-V-O-R-C-E (Album Version)",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/05_D-I-V-O-R-C-E_(Album_Version)_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Divorce Me C.O.D.",
+      "artist": "Merle Travis",
+      "has_synced": false,
+      "path": "select/06_Divorce_Me_C.O.D._Merle_Travis.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Goin' Through The Big D",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/07_Goin'_Through_The_Big_D_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Goin' Through The Big D (Album Version)",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/08_Goin'_Through_The_Big_D_(Album_Version)_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Goin' Through the Big D",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/09_Goin'_Through_the_Big_D_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "D-Generation X",
+      "artist": "[soundtrack]",
+      "has_synced": false,
+      "path": "select/10_D-Generation_X_[soundtrack].txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Goodbye Summer (f(Amber+Luna+Krystal) (feat. D.O. of EXO-K))",
+      "artist": "f(x)",
+      "has_synced": false,
+      "path": "select/11_Goodbye_Summer_(f(Amber+Luna+Krystal)_(feat._D.O._of_EXO-K))_f(x).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Goodbye Summer (f(Amber+Luna+Krystal) (Feat. D.O.)",
+      "artist": "f(x)",
+      "has_synced": false,
+      "path": "select/12_Goodbye_Summer_(f(Amber+Luna+Krystal)_(Feat._D.O.)_f(x).txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Double Dutch (feat. Eric Nimmer & D.L. Hughley)",
+      "artist": "Wyclef Jean",
+      "has_synced": false,
+      "path": "select/13_Double_Dutch_(feat._Eric_Nimmer_&_D.L._Hughley)_Wyclef_Jean.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "E.S.D.B.",
+      "artist": "Deichkind",
+      "has_synced": true,
+      "path": "select/14_E.S.D.B._Deichkind.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ghetto Children (feat. N.E.R.D.\u0000Marc Dorsey)",
+      "artist": "Kelis",
+      "has_synced": false,
+      "path": "select/15_Ghetto_Children_(feat._N.E.R.D.\u0000Marc_Dorsey)_Kelis.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hausmeister Thomas D - LP-MIX 105 BP",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": true,
+      "path": "select/16_Hausmeister_Thomas_D_-_LP-MIX_105_BP_Die_Fantastischen_Vier.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hausmeister Thomas \"D\" (Lp-Mix)",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": true,
+      "path": "select/17_Hausmeister_Thomas__D__(Lp-Mix)_Die_Fantastischen_Vier.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "D/N/A",
+      "artist": "Azari",
+      "has_synced": false,
+      "path": "select/pl_01_D_N_A_Azari.txt"
+    }
+  ]
+}
